@@ -1,0 +1,33 @@
+/* form style starts  */
+.add-service-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    }
+
+        
+    
+.my-cart {
+
+  background:#E2F1F1;
+  text-align: center;
+  margin: 50px 20px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  box-shadow: -1px 15px 21px -6px rgba(169, 49, 49, 0.61);
+  -webkit-box-shadow: -1px 15px 21px -6px rgba(169, 49, 49, 0.61);
+  -moz-box-shadow: -1px 15px 21px -6px rgba(169, 49, 49, 0.61);
+}
+    
+/* form style ends  */
+
+/* form input style starts  */
+.add-service form input,textarea{
+width: 40%;
+margin-bottom: 10px;
+
+}
+
+/* form input style ends  */
